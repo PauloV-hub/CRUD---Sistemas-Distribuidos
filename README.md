@@ -1,5 +1,5 @@
 Sistema CRUD com Sockets e SQLite
-Este é um sistema de CRUD (Create, Read, Update, Delete) implementado utilizando Sockets para comunicação entre cliente e servidor. Os dados são armazenados em um banco de dados SQLite. O sistema permite adicionar, visualizar, atualizar e excluir dados de pessoas, com informações como nome, cep, time de coração, idade e endereço.
+Este é um sistema de CRUD (Create, Read, Update, Delete) implementado utilizando Sockets para comunicação entre cliente e servidor. Os dados são armazenados em um banco de dados SQLite. O sistema permite adicionar, visualizar, atualizar e excluir dados de pessoas, com informações como nome, CEP, time de coração, idade e endereço.
 
 Funcionalidades
 Create: Adiciona um novo registro com informações de nome, CEP, time de coração, idade e endereço.
